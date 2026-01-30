@@ -1,0 +1,7 @@
+{
+  "name": "Practice Makes Palliative",
+  "description": "A comprehensive learning and practice platform for medical students rotating through palliative care, featuring AI-driven expert-level learning and interactive clinical discussion simulations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
